@@ -1,0 +1,10 @@
+Important Points:
+	.) AI simply means Artifical Intelligence.
+	.) According to the Research of Mckinsey Global Institute and it states that around 13 trillion 	USD AI creates annually by the year 2030.
+	.) AI is effecting various domains like Retail Shopping Industry, Transport Industry, Travel 	Industry and Health care etc.
+	.) AI is actually two separate ideas means one part is Artificial Narrow Intelligence (ANI) and 	the other one is Artificial General Intelligence (AGI).
+	.) The applications of ANI are Self-driving car, Smart speaker, AI in farming etc.
+	.) The major application of AGI is that AGI does everything that a human can do. AGI is more 	intelligent then human and do even more things that a human can.
+	.) People conclude that there's a lot of progress in AI and ANI does a more progress as 	compared to AGI.
+	.) People also conclude that the progress of AGI is leading us to some irrational fears about 	evil clever robots coming over to take over humanity anytime now.
+	.) In this week we are going to learn about what is Machine Learning?, What is Data?, What 	makes an AI company, What machine learning can and cannot do, Optional: Intuitive 	explanation of Deep Learning/Neural Networks.
